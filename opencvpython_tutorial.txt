@@ -1,0 +1,13 @@
+Installare python e opencv su Windows:
+https://pysource.com/2019/03/15/how-to-install-python-3-and-opencv-4-on-windows/
+https://pysource.com/2019/03/15/how-to-install-python-3-and-opencv-4-on-windows/
+Se non funziona provare anche con: pip install opencv-python==3.4.1.15
+streaming webcam:
+https://riptutorial.com/it/opencv
+
+Alcuni esempi:
+Semplici test su opencv/python:
+https://github.com/carlocanali1979/Opencv
+
+human-pose estimation, funziona abbastanza:
+https://github.com/quanhua92/human-pose-estimation-opencv
